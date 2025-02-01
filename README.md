@@ -1,5 +1,8 @@
 # Power BI Dashboard for EdTech Recorded Courses Analysis
 
+[Online_Courses_DashBoard.pdf](https://github.com/user-attachments/files/18628252/Online_Courses_DashBoard.pdf)
+
+
 ## Project Overview
 This project leverages **Power BI** to analyze and visualize data collected from various EdTech platforms, with a specific focus on **recorded courses**. The goal is to uncover valuable insights into course offerings, viewer engagement, instructor performance, and language preferences to help the EdTech startup improve its recorded lecture services.
 
